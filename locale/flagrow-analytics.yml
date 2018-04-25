@@ -1,0 +1,37 @@
+# https://github.com/flagrow/flarum-ext-analytics/blob/master/locale/en.yml
+
+flagrow-analytics:
+  admin:
+    popup:
+      title: 统计设置
+
+      section:
+        googleAnalytics: Google Analytics
+        piwik: Piwik
+
+      field:
+        statusGoogle: 启用 Google Analytics
+        googleTrackingCode: 跟踪代码 ID
+        statusPiwik: 启用 Piwik
+        piwikUrl: Piwik 链接
+        piwikSiteId: 站点 ID
+        piwikTrackSubdomain: 追踪所有 Flarum 子域的访问者
+        piwikPrependDomain: 追踪时将网站域名添加到页面标题
+        piwikHideAliasUrl: 在「外链」报告中，隐藏已知别名链接的点击量
+        piwikAliasUrl: 别名链接
+        piwikTrackAccounts: 追踪个人用户帐户
+        piwikAuthToken: 验证令牌
+
+      placeholder:
+        piwikAuthToken: |
+          填入验证令牌以启用 Piwik 统计页， 你可以在设置→个人→API 验证令牌中找到。
+
+      trackAccounts:
+        none: 不要追踪
+        username: 依照用户名追踪
+        email: 依照邮箱追踪
+
+    page:
+      nav:
+        title: 站点统计
+        description: 查看站点统计数据
