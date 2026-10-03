@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of csineneo/flarum-ext-simplified-chinese.** Not for installation: use [Packagist](https://packagist.org/packages/csineneo/flarum-ext-simplified-chinese) or the [upstream repository](https://github.com/Csineneo/flarum-ext-simplified-chinese).
 
-**0** versions archived · Latest: [`v0.1.0-beta.7.9`](https://github.com/flarchive/csineneo-flarum-ext-simplified-chinese/tree/archive/v0.1.0-beta.7.9) · License: `MIT` · Flarum: `^0.1.0-beta.7`
+**23** versions archived · Latest: [`v0.1.0-beta.7.9`](https://github.com/flarchive/csineneo-flarum-ext-simplified-chinese/tree/archive/v0.1.0-beta.7.9) · License: `MIT` · Flarum: `^0.1.0-beta.7`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0-beta.5` | 2016-03-30 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/csineneo-flarum-ext-simplified-chinese/tree/archive/v0.1.0-beta.5) |
+| `v0.1.0-beta.5.1` | 2016-06-02 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/csineneo-flarum-ext-simplified-chinese/tree/archive/v0.1.0-beta.5.1) |
+| `v0.1.0-beta.6` | 2016-11-17 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/csineneo-flarum-ext-simplified-chinese/tree/archive/v0.1.0-beta.6) |
+| `v0.1.0-beta.6.1` | 2016-11-17 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/csineneo-flarum-ext-simplified-chinese/tree/archive/v0.1.0-beta.6.1) |
+| `v0.1.0-beta.6.10` | 2017-03-31 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/csineneo-flarum-ext-simplified-chinese/tree/archive/v0.1.0-beta.6.10) |
+| `v0.1.0-beta.6.2` | 2016-12-07 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/csineneo-flarum-ext-simplified-chinese/tree/archive/v0.1.0-beta.6.2) |
+| `v0.1.0-beta.6.3` | 2016-12-27 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/csineneo-flarum-ext-simplified-chinese/tree/archive/v0.1.0-beta.6.3) |
+| `v0.1.0-beta.6.4` | 2016-12-28 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/csineneo-flarum-ext-simplified-chinese/tree/archive/v0.1.0-beta.6.4) |
+| `v0.1.0-beta.6.5` | 2017-01-28 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/csineneo-flarum-ext-simplified-chinese/tree/archive/v0.1.0-beta.6.5) |
+| `v0.1.0-beta.6.6` | 2017-01-31 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/csineneo-flarum-ext-simplified-chinese/tree/archive/v0.1.0-beta.6.6) |
+
+[View all 23 versions](https://github.com/flarchive/csineneo-flarum-ext-simplified-chinese/tags)
 
 Catalog entry: [packages/csineneo-flarum-ext-simplified-chinese.json](https://github.com/flarchive/archive-index/blob/main/packages/csineneo-flarum-ext-simplified-chinese.json)
 
